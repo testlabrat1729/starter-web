@@ -7,3 +7,5 @@
 ## conclusion
 
 ## How to contribute
+
+## code of conduct
